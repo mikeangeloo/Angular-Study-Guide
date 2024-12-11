@@ -1,3 +1,8 @@
+## Created with:
+
+- Node version: v18.20.1
+- Angular CLI version: 17.3.11
+
 # AngularStudyGuide
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
